@@ -6,9 +6,13 @@ import {
   ArrowRight,
 } from 'lucide-react';
 
-export const Services = () => {
+interface Props {
+  id: string;
+}
+
+export const Services = ({ id }: Props) => {
   return (
-    <section id="servicios" className="py-24 bg-slate-50">
+    <section id={id} className="py-24 bg-slate-50">
       <div className="container px-4 md:px-6 mx-auto">
         <div className="text-center max-w-2xl mx-auto mb-16">
           <h2 className="font-heading font-bold text-3xl md:text-4xl text-slate-900 mb-4">

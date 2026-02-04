@@ -7,7 +7,7 @@ export const HomePage = () => {
     <>
       <Hero id={'hero'} />
       <Sponsors id={'sponsors'} />
-      <Services />
+      <Services id={'services'} />
     </>
   );
 };
