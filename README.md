@@ -38,4 +38,4 @@ Una plantilla de Landing Page moderna, responsive y altamente personalizable dis
 ## Autor
 Desarrollado por [Baruc Alejandria](https://github.com/devLire)
 
-Este proyecto es un boilerplate libre de uso para propósitos educativos y profesionales.
+Este proyecto es un boilerplate libre de uso para propósitos educativos.
