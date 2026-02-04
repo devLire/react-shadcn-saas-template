@@ -121,3 +121,8 @@
     @apply bg-background text-foreground;
   }
 }
+
+@theme {
+  --font-plus-jakarta-sans: "Plus Jakarta Sans", sans-serif;
+  --font-inter: "Inter", sans-serif;
+}
