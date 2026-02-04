@@ -28,7 +28,7 @@ export const Hero = ({ id }: Props) => {
             <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[300px] h-[300px] bg-emerald-100 rounded-full blur-3xl -z-10" />
 
             <img
-              src="/mock-hero.webp"
+              src="/hero/mock-hero.webp"
               alt="Dashboard NextGen"
               width={600}
               height={600}
