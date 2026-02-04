@@ -1,7 +1,9 @@
+import { Hero } from '@/pages/home/components/Hero.tsx';
+
 export const HomePage = () => {
   return (
-    <div>
-      <p>HomePage</p>
-    </div>
+    <>
+      <Hero id={'hero'} />
+    </>
   );
 };
