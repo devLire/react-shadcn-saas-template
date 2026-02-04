@@ -99,11 +99,11 @@ export const Services = ({ id }: Props) => {
               alt="Ilustración de seguridad informática"
               className="absolute top-6 right-6 w-32 md:w-50 h-auto object-contain z-0"
             />
-            <div className="relative z-10 flex flex-col h-full justify-between">
+            <div className="relative z-10 flex flex-col h-full">
               <div className="w-12 h-12 rounded-lg bg-emerald-100 flex items-center justify-center text-emerald-600 mb-6">
                 <ShieldCheck className="w-6 h-6" />
               </div>
-              <div className="pr-4 md:max-w-[60%]">
+              <div className="pr-4 md:max-w-[60%] mt-12">
                 <h3 className="font-heading text-xl font-bold text-slate-900 mb-2">
                   Ciberseguridad
                 </h3>
@@ -119,14 +119,14 @@ export const Services = ({ id }: Props) => {
           <div className="relative group overflow-hidden rounded-3xl bg-white p-8 border border-slate-100 shadow-sm hover:shadow-md transition-all">
             <img
               src="/services/mock-transformacion.webp"
-              alt="Ilustración de seguridad informática"
+              alt="Ilustración transformación"
               className="absolute top-6 right-6 w-32 md:w-50 h-auto object-contain z-0"
             />
-            <div className="relative z-10 flex flex-col h-full justify-between">
+            <div className="relative z-10 flex flex-col h-full">
               <div className="w-12 h-12 rounded-lg bg-emerald-100 flex items-center justify-center text-emerald-600 mb-6">
                 <Rocket className="w-6 h-6" />
               </div>
-              <div className="pr-4 md:max-w-[60%]">
+              <div className="pr-4 md:max-w-[60%] mt-12">
                 <h3 className="font-heading text-xl font-bold text-slate-900 mb-2">
                   Transformación Digital
                 </h3>
