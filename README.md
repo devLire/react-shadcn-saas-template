@@ -2,7 +2,7 @@
 
 Una plantilla de Landing Page moderna, responsive y altamente personalizable diseñada para productos SaaS.
 
-![Project Preview](./public/preview.png)
+![Project Preview](./public/preview.jpg)
 
 ## Tech Stack
 
