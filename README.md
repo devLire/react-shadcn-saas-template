@@ -34,3 +34,8 @@ Una plantilla de Landing Page moderna, responsive y altamente personalizable dis
 
 1. **Clonar el repositorio**
 2. **Ejecutar pnpm install / npm install**
+
+## Autor
+Desarrollado por [Baruc Alejandria](https://github.com/devLire)
+
+Este proyecto es un boilerplate libre de uso para propósitos educativos y profesionales.
