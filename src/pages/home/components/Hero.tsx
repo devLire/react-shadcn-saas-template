@@ -6,7 +6,7 @@ export const Hero = ({ id }: Props) => {
   return (
     <section
       id={id}
-      className="relative w-full py-15 md:py-2 bg-white flex items-center justify-center overflow-hidden"
+      className="relative w-full py-15 md:py-2 bg-white flex items-center justify-center overflow-hidden scroll-mt-20"
     >
       <div className="container px-4 lg:px-12 mx-auto">
         <div className="grid gap-6 lg:grid-cols-2 lg:gap-12 items-center">

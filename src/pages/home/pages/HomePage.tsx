@@ -6,7 +6,7 @@ import { CtaSection } from '@/pages/home/components/CTA.tsx';
 export const HomePage = () => {
   return (
     <>
-      <Hero id={'hero'} />
+      <Hero id={'inicio'} />
       <Sponsors id={'sponsors'} />
       <Services id={'services'} />
       <CtaSection id={'Call-To-Action'} />
